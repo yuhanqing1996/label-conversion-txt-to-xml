@@ -4,13 +4,13 @@
 ## 代码程序
 需要以下环境：
 
-+python
++ python
 
 
-+opencv-python
++ opencv-python
 
 
-+lxml
++ lxml
 
 
 （直接pip install，不用指定版本）
