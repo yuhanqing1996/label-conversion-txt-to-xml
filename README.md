@@ -2,7 +2,7 @@
 该项目可实现将txt标签转换成相应的xml格式
 
 ## 代码程序
-改程序需要以下环境：
+需要以下环境：
 python
 opencv-python
 lxml
